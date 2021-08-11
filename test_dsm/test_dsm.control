@@ -1,0 +1,4 @@
+# test_dsm extension
+comment = 'test extension for using the dynamic shared memory'
+default_version = '1.0'
+module_pathname = '$libdir/test_dsm'
