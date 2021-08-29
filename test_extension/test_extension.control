@@ -1,0 +1,5 @@
+# test_extension extension
+comment = 'small example code for development of an extension'
+default_version = '1.0'
+module_pathname = '$libdir/test_extension'
+relocatable = true
